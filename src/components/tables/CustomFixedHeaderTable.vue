@@ -1,4 +1,3 @@
-<!-- components/CustomTable.vue -->
 <script setup>
 import { defineProps } from 'vue'
 
